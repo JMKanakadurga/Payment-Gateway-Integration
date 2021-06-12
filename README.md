@@ -1,15 +1,13 @@
 # Payment-Gateway-Integration
+This task was done under the Web Development and Designing Internship (GRIP) at the Sparks Foundation.
+-->About the task
 
-Create a simple website where payment gateway is integrated.
-There will be a simple donate button on homepage. On clicking
-the donate button, the user will land on the payment page where
-user can select the amount to be paid and the payment type, e.g.
-credit card, Paypal, etc.
- Once the payment is done and invoice will be generated and
-email will be sent to the user for the payment received. The
-invoice will contain the amount.
- On any page / email, only basic information is needed.
- Create your own temporary / sandbox / testing accounts with 3rd
-party for integrations.
-Host the website at 000webhost, github.io, heroku app or any
-other free hosting provider. Check in code in gitlab.
+The task assigned was to create a website with a payment gateway integration.I have designed a website for donating the Covid-19 relief funds.
+
+--Design flow of the website is as follows:
+
+--> Create a simple website where payment gateway is integrated.There will be a simple donate button on homepage.<br>
+--> On clicking the donate button, the user will land on the payment page where user can select the amount to be paid and the payment type, e.g.credit card, Paypal, etc.
+--> Once the payment is done and invoice will be generated and email will be sent to the user for the payment received. The invoice will contain the amount.
+--> Create your own temporary / sandbox / testing accounts with 3rd party for integrations.
+--> Host the website at 000webhost, github.io, heroku app or any other free hosting provider. 
