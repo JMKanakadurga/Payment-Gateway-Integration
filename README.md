@@ -12,3 +12,5 @@ The task assigned was to create a website with a payment gateway integration.I h
 -> Once the payment is done and invoice will be generated and email will be sent to the user for the payment received. The invoice will contain the amount.<br>
 -> Create your own temporary / sandbox / testing accounts with 3rd party for integrations.<br>
 -> Host the website at 000webhost, github.io, heroku app or any other free hosting provider. 
+
+--->View my project: https://jmkanakadurga.github.io/Payment-Gateway-Integration/
